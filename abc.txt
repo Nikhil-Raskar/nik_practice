@@ -1,2 +1,4 @@
 this is first commit
+
+Changes from feature 2
 this is feature2
